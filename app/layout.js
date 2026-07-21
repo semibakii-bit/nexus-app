@@ -1,0 +1,1 @@
+export const metadata={title:"NEXUS"};export default function L({children}){return(<html><body style={{margin:0,background:"#0D0D1A",color:"white",fontFamily:"sans-serif"}}>{children}</body></html>)}
